@@ -22,10 +22,4 @@ It includes authentication, authorization, and JWT-based security mechanisms.
 - Spring Security integration
 - Protected endpoints setup
 
----
 
-
-│           └── application.properties
-│
-├── pom.xml
-└── README.md
