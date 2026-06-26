@@ -1,4 +1,4 @@
-# 🔐 Week 14 - Enterprise Security Implementation
+#  Week 14 - Enterprise Security Implementation
 
 ##  Project Overview
 This project demonstrates **enterprise-level security implementation** using Spring Boot.  
@@ -6,7 +6,7 @@ It includes authentication, authorization, and JWT-based security mechanisms.
 
 ---
 
-## 🚀Technologies Used
+## Technologies Used
 - Java 17
 - Spring Boot
 - Spring Security
