@@ -24,30 +24,7 @@ It includes authentication, authorization, and JWT-based security mechanisms.
 
 ---
 
-## Project Structure
-week-14-security/
-│
-├── src/
-│   └── main/
-│       ├── java/
-│       │   └── com/
-│       │       └── gen2soft/
-│       │           └── week14security/
-│       │               ├── Week14SecurityApplication.java
-│       │               │
-│       │               ├── config/
-│       │               │   └── SecurityConfig.java
-│       │               │
-│       │               ├── controller/
-│       │               │   └── AuthController.java
-│       │               │
-│       │               ├── model/
-│       │               │   └── AuthRequest.java
-│       │               │
-│       │               └── service/
-│       │                   └── JwtService.java
-│       │
-│       └── resources/
+
 │           └── application.properties
 │
 ├── pom.xml
